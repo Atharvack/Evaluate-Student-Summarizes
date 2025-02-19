@@ -32,8 +32,6 @@ The dataset for this project is sourced from the CommonLit Kaggle challenge. It 
 - Matplotlib, Seaborn for data visualization
 
 
-
-
 ## Contributing
 Contributions are welcome! Fork the repository and submit a pull request with your enhancements.
 
@@ -43,3 +41,15 @@ Contributions are welcome! Fork the repository and submit a pull request with yo
 ## Acknowledgments
 - CommonLit and Kaggle for providing the dataset and hosting the competition.
 
+
+## Jupyter Notebook
+
+<div id="notebook-content"></div>
+
+<script>
+  fetch('main.html')
+    .then(response => response.text())
+    .then(data => {
+      document.getElementById('notebook-content').innerHTML = data;
+    });
+</script>
