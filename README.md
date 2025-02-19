@@ -7,7 +7,7 @@ This project aims to automatically assess the quality of summaries written by st
 
 ### Project Notebook
 
-For detailed code and analysis, check out the [Main Notebook](Main.ipynb).
+For detailed code and analysis, check out the [Main Notebook](main.ipynb).
 
 ## Dataset
 The dataset for this project is sourced from the CommonLit Kaggle challenge. It includes a collection of real student summaries, each annotated with quality scores.
